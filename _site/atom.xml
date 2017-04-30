@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hyde</title>
+ <link href="http://mccombs.us/atom.xml" rel="self"/>
+ <link href="http://mccombs.us/"/>
+ <updated>2017-04-30T06:19:24-07:00</updated>
+ <id>http://mccombs.us</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
